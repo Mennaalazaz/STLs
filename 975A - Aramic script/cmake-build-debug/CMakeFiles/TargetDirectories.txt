@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/Loops_Array_Strings/975A - Aramic script/cmake-build-debug/CMakeFiles/975A___Aramic_script.dir
+C:/Users/pc/CLionProjects/Loops_Array_Strings/975A - Aramic script/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/Loops_Array_Strings/975A - Aramic script/cmake-build-debug/CMakeFiles/rebuild_cache.dir
