@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/STLs/  Great Vova Wall (Version 1)/cmake-build-debug/CMakeFiles/__Great_Vova_Wall__Version_1_.dir
+C:/Users/pc/CLionProjects/STLs/  Great Vova Wall (Version 1)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/STLs/  Great Vova Wall (Version 1)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
