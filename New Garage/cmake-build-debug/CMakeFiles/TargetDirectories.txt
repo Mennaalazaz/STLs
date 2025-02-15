@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/STLs/New Garage/cmake-build-debug/CMakeFiles/New_Garage.dir
+C:/Users/pc/CLionProjects/STLs/New Garage/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/STLs/New Garage/cmake-build-debug/CMakeFiles/rebuild_cache.dir
